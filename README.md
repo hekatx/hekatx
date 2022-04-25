@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hola!
 
-<!--
-**hekatx/hekatx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught full-stack developer based in Mexico. I'm looking for remote work oportunities that involve React and Typescript (and maybe THREE.js? 👀).
 
-Here are some ideas to get you started:
+### Stuff I use 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming languages: Go, Typescript, Lua.
+- Frameworks: React (yeah I know that technically it's a library), Express, Echo, Gorilla.
+- Human languages: Spanish, English. 
+- Current interests: Neovim API, Computational Chemistry, 3D.
+
+### Things I enjoy besides programming
+
+- Painting
+- Reading fiction (currently going through The Three-Body Problem)
+- Writing haikus
+
+###  How to reach me
+
+heykevingonzalez@gmail.com
